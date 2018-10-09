@@ -1,5 +1,5 @@
-# WP Headless
-A simple plugin for publishing static JSON files from Wordpress for a headless CMS.
+# WP Headless Lite
+A simple plugin for publishing static JSON files from Wordpress for a headless CMS. This version does not depend not depend on ACF Pro.
 
 ## Install
 - Download the repo
@@ -9,7 +9,7 @@ A simple plugin for publishing static JSON files from Wordpress for a headless C
 	- WP Headless uses those same credentials for uploading to s3.
 
 ## Requirements
-- ACF Pro ( [Advanced Custom Fields Pro](https://www.advancedcustomfields.com/pro/) )
+- ACF ( [Advanced Custom Fields](https://www.advancedcustomfields.com/) )
 - AWS ( [Amazon Web Services](https://wordpress.org/plugins/amazon-web-services/) )
 - WP Offload ( [Wordpress Offload Lite](https://wordpress.org/plugins/amazon-s3-and-cloudfront/) )
 
